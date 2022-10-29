@@ -35,7 +35,7 @@ EMAIL_HOST_PASSWORD = '8411889127'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-ALLOWED_HOSTS = ['127.0.0.1','https://ommad.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','ommad.herokuapp.com/']
 
 
 # Application definition
